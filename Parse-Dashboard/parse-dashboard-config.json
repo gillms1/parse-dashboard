@@ -1,8 +1,14 @@
 {
   "apps": [
-      "serverURL": "https://gillapps-parseserver.herokuapp.com/",
+      "serverURL": "https://gillapps-parseserver.herokuapp.com/parse",
       "appId": "gillappsparse",
       "masterKey": "gill45",
       "appName": "GillApps Dashboard"
+  ],
+  "users": [
+    {
+      "user":"sunny", // Used to log in to your Parse Dashboard
+      "pass":"cantona7"
+    }
   ]
 }
