@@ -7,8 +7,8 @@
   ],
   "users": [
     {
-      "user":"sunny", // Used to log in to your Parse Dashboard
-      "pass":"cantona7"
+      "user":"user", 
+      "pass":"password"
     }
   ]
 }
