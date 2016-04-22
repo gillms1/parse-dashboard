@@ -1,6 +1,6 @@
 {
   "apps": [
-      "serverURL": "https://gillapps-parseserver.herokuapp.com/parse",
+      "serverURL": "https://gillapps-parseserver.herokuapp.com",
       "appId": "gillappsparse",
       "masterKey": "gill45",
       "appName": "GillApps Dashboard"
